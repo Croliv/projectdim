@@ -13,7 +13,7 @@ const featuredImages = [
     description: "Mosaico geométrico em tons neutros"
   },
   {
-    url: "https://images.unsplash.com/photo-1575652371678-d1b30e0a0c6d?w=800&q=80",
+    url: "https://plus.unsplash.com/premium_photo-1676968003446-f37c64e34cb8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Mosaico Artístico",
     description: "Composição exclusiva para área gourmet"
   },
@@ -40,7 +40,7 @@ const projectGallery = [
         details: "Porcelanato 60x120cm | Execução em 5 dias"
       },
       {
-        url: "https://images.unsplash.com/photo-1584622781867-acc0175e6a68?w=600&q=80",
+        url: "https://plus.unsplash.com/premium_photo-1673119370210-1be6dc6e8850?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "Suíte Master",
         details: "Revestimento 3D | Execução em 7 dias"
       },
@@ -66,7 +66,7 @@ const projectGallery = [
         details: "Porcelanato Técnico | Execução em 8 dias"
       },
       {
-        url: "https://images.unsplash.com/photo-1556908542-391b7f29d6a8?w=600&q=80",
+        url: "https://images.unsplash.com/photo-1599083549933-838ea352c1cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXp1bGVpam8lMjBjb3ppbmhhfGVufDB8fDB8fHww",
         title: "Área Gourmet",
         details: "Mosaico Decorativo | Execução em 4 dias"
       }
@@ -77,7 +77,7 @@ const projectGallery = [
     description: "Revestimentos resistentes e decorativos para áreas abertas",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1597975371270-cf810d65e67f?w=600&q=80",
+        url: "https://plus.unsplash.com/premium_photo-1663129812059-5eabafd74ac2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXp1bGVpam8lMjBjYWwlQzMlQTdhZGF8ZW58MHx8MHx8fDA%3D",
         title: "Piscina",
         details: "Pastilhas de Vidro | Execução em 10 dias"
       },
@@ -97,22 +97,29 @@ const projectGallery = [
 
 const testimonials = [
   {
-    name: "Maria Silva",
-    role: "Proprietária Residencial",
+    name: "Veggeto",
+    role: "Proprietário Residencial",
     comment: "Trabalho impecável! Transformou completamente nosso banheiro com atenção aos detalhes.",
     rating: 5,
     date: "Janeiro 2024"
   },
   {
-    name: "João Santos",
+    name: "BlacksSama",
     role: "Gerente Comercial",
     comment: "Profissionalismo e pontualidade. O resultado superou nossas expectativas.",
     rating: 5,
     date: "Fevereiro 2024"
   },
   {
-    name: "Ana Costa",
-    role: "Arquiteta",
+    name: "GKabal",
+    role: "Arquiteto",
+    comment: "Execução perfeita do projeto. Recomendo para trabalhos que exigem precisão.",
+    rating: 5,
+    date: "Março 2024"
+  }
+  {
+    name: "Filipinho",
+    role: "Farmaceutico",
     comment: "Execução perfeita do projeto. Recomendo para trabalhos que exigem precisão.",
     rating: 5,
     date: "Março 2024"
@@ -120,9 +127,9 @@ const testimonials = [
 ];
 
 const professionalBio = {
-  name: "Dimitri 'Dim' Santos",
+  name: "Velhote",
   title: "Especialista em Revestimentos",
-  photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+  photo: "https://plus.unsplash.com/premium_photo-1672297543351-17987c5c9361?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZW0lMjBpZG9zb3xlbnwwfHwwfHx8MA%3D%3D",
   experience: "15 anos",
   specialties: ["Porcelanatos", "Mosaicos", "Revestimentos 3D", "Áreas Externas"],
   certifications: ["SENAI - Técnico em Revestimentos", "ABR - Especialista em Porcelanatos"],
