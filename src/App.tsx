@@ -515,7 +515,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <a href="tel:+5511999999999" className="flex items-center justify-center p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
               <Phone className="w-6 h-6 text-gray-600 mr-3" />
-              <span className="text-gray-800">(11) 99999-9999</span>
+              <span className="text-gray-800">(XX) 99999-9999</span>
             </a>
             <a href="mailto:contato@arteazulejos.com" className="flex items-center justify-center p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
               <Mail className="w-6 h-6 text-gray-600 mr-3" />
@@ -523,7 +523,7 @@ function App() {
             </a>
             <div className="flex items-center justify-center p-6 bg-white rounded-lg shadow-md">
               <MapPin className="w-6 h-6 text-gray-600 mr-3" />
-              <span className="text-gray-800">São Paulo, SP</span>
+              <span className="text-gray-800">Massachusetts</span>
             </div>
           </div>
         </div>
