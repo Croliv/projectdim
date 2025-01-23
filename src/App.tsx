@@ -117,13 +117,6 @@ const testimonials = [
     rating: 5,
     date: "Março 2024"
   }
-  {
-    name: "Filipinho",
-    role: "Farmaceutico",
-    comment: "Execução perfeita do projeto. Recomendo para trabalhos que exigem precisão.",
-    rating: 5,
-    date: "Março 2024"
-  }
 ];
 
 const professionalBio = {
