@@ -111,7 +111,7 @@ const testimonials = [
     date: "Fevereiro 2024"
   },
   {
-    name: "GKabal",
+    name: "Felipinho",
     role: "Arquiteto",
     comment: "Execução perfeita do projeto. Recomendo para trabalhos que exigem precisão.",
     rating: 5,
